@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customers>
+    <customer>
+        <id>233658</id>
+        <name>Игорь Владимирович</name>
+        <orders>
+            <order>
+                <id>1233658</id>
+                <positions>
+                    <position>
+                        <id>3233658</id>
+                        <price>31.0</price>
+                        <count>3</count>
+
+                        <id>3453</id>
+                        <price>654</price>
+                        <count>1</count>
+                    </position>
+                </positions>
+            </order>
+
+            <order>
+                <id>133658</id>
+                <positions>
+                    <position>
+                        <id>65422</id>
+                        <price>8356.1</price>
+                        <count>2</count>
+
+                        <id>32423</id>
+                        <price>2334.1</price>
+                        <count>1</count>
+
+                        <id>33658</id>
+                        <price>31.5</price>
+                        <count>7</count>
+                    </position>
+                </positions>
+            </order>
+        </orders>
+    </customer>
+
+    <customer>
+        <id>23619</id>
+        <name>Иван Иванов</name>
+        <orders>
+            <order>
+                <id>564278</id>
+                <positions>
+                    <position>
+                        <id>47946</id>
+                        <price>56748.5</price>
+                        <count>6</count>
+                    </position>
+
+                    <position>
+                        <id>56255</id>
+                        <price>4353.4</price>
+                        <count>1</count>
+                    </position>
+
+                    <position>
+                        <id>64837</id>
+                        <price>3467.1</price>
+                        <count>1</count>
+                    </position>
+
+                    <position>
+                        <id>57683</id>
+                        <price>5686.7</price>
+                        <count>2</count>
+                    </position>
+
+                    <position>
+                        <id>46534</id>
+                        <price>2353.0</price>
+                        <count>1</count>
+                    </position>
+                </positions>
+            </order>
+        </orders>
+    </customer>
+
+    <customer>
+        <id>349857</id>
+        <name>Анна Иванова</name>
+        <orders>
+            <order>
+                <id>657867</id>
+                <positions>
+                    <position>
+                        <id>45623</id>
+                        <price>1111.0</price>
+                        <count>1</count>
+                    </position>
+
+                    <position>
+                        <id>65765</id>
+                        <price>2667.0</price>
+                        <count>2</count>
+                    </position>
+
+                    <position>
+                        <id>5477636</id>
+                        <price>45654.2</price>
+                        <count>1</count>
+                    </position>
+                </positions>
+            </order>
+
+            <order>
+                <id>7656546</id>
+                <positions>
+                    <position>
+                        <id>3433</id>
+                        <price>3334.0</price>
+                        <count>1</count>
+                    </position>
+                </positions>
+            </order>
+        </orders>
+    </customer>
+
+    <customer>
+        <id>823578</id>
+        <name>Оля Колесникова</name>
+        <orders>
+            <order>
+                <id>766346</id>
+                <positions>
+                    <position>
+                        <id>433</id>
+                        <price>644.0</price>
+                        <count>1</count>
+                    </position>
+
+                    <position>
+                        <id>435</id>
+                        <price>444.0</price>
+                        <count>3</count>
+                    </position>
+
+                    <position>
+                        <id>43531</id>
+                        <price>6144.0</price>
+                        <count>2</count>
+                    </position>
+
+                    <position>
+                        <id>4353</id>
+                        <price>6444.0</price>
+                        <count>3</count>
+                    </position>
+                </positions>
+            </order>
+
+            <order>
+                <id>456611</id>
+                <positions>
+                    <position>
+                        <id>9876</id>
+                        <price>3100.5</price>
+                        <count>2</count>
+                    </position>
+                </positions>
+            </order>
+        </orders>
+    </customer>
+
+    <customer>
+        <id>23658</id>
+        <name>Владимир Кузнецов</name>
+        <orders>
+            <order>
+                <id>568890</id>
+                <positions>
+                    <position>
+                        <id>1124</id>
+                        <price>329.0</price>
+                        <count>8</count>
+                    </position>
+                </positions>
+            </order>
+        </orders>
+    </customer>
+
+    <customer>
+        <id>7678456</id>
+        <name>Павел Шилов</name>
+        <orders>
+            <order>
+                <id>67567</id>
+                <positions>
+                    <position>
+                        <id>6621</id>
+                        <price>666.0</price>
+                        <count>13</count>
+                    </position>
+                </positions>
+            </order>
+
+            <order>
+                <id>87838</id>
+                <positions>
+                    <position>
+                        <id>86337</id>
+                        <price>1767.2</price>
+                        <count>2</count>
+                    </position>
+
+                    <position>
+                        <id>93459</id>
+                        <price>6749.8</price>
+                        <count>1</count>
+                    </position>
+                </positions>
+            </order>
+        </orders>
+    </customer>
+</customers>
